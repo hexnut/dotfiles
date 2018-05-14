@@ -132,7 +132,7 @@ channels = (
   { name = "#a2c.chat"; chatnet = "a2central"; autojoin = "yes"; },
   { name = "#twitlive"; chatnet = "twit"; autojoin = "yes"; },
   { name = "#antergos"; chatnet = "freenode"; autojoin = "yes"; },
-  { name = "#raspberrypi"; chatnet = "freenode"; autojoin = "yes"; }
+  { name = "#debian"; chatnet = "freenode"; autojoin = "yes"; }
 );
 
 aliases = {
